@@ -207,3 +207,9 @@ Complete Example
           - fq1
           - fq2
           - Run_s
+
+
+Demo Files
+~~~~~~~~~~~~~~~~
+To set up a demo directory with example config files as well as data, 
+run the command ``ymp init demo``.
